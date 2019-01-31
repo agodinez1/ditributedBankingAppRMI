@@ -1,6 +1,7 @@
 # ditributedBankingAppRMI
 
 # To run/test:
+##### make sure you change the file path in security.policy
 1. navigate to ..\..DistributedBankingApp\src on the command line
 2. ```javac *.java```  
    - compile all java files to class files
