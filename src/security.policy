@@ -1,0 +1,3 @@
+grant codeBase "file:C:/Users/forCSGOcozcantalttab/eclipse-workspace/DistributedBankingApp/bin/" {
+	permission java.security.AllPermission;
+};
