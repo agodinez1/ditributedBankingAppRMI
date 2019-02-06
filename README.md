@@ -1,7 +1,7 @@
 # ditributedBankingAppRMI
 
-# Andre Godinez - 15460718
-# Cillian Fennell - 15407302
+#### Andre Godinez - 15460718
+#### Cillian Fennell - 15407302
 
 # To run/test:
 ##### make sure you change the file path in security.policy
